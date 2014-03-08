@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+
+class my_class
+{
+	public:
+		myclass(){}
+		`myclass(){}
+}
+
+int main()
+{
+	int a_a,b.b,c;
+	printf("Hello World");
+	return 0;
+}
